@@ -10,6 +10,6 @@ The output data from this system is in the form of blood pressure and heart rate
 The data will be stored in firebase and sent to the application.
 
 for reference : 
-http://kursuselektronikaku.blogspot.com/2016/11/mengakses-sensor-mpx5700dp-dan-water.html
-https://www.electroschematics.com/heart-rate-sensor/
-https://randomnerdtutorials.com/esp32-firebase-realtime-database/
+1. http://kursuselektronikaku.blogspot.com/2016/11/mengakses-sensor-mpx5700dp-dan-water.html
+2. https://www.electroschematics.com/heart-rate-sensor/
+3. https://randomnerdtutorials.com/esp32-firebase-realtime-database/
