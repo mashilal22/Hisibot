@@ -7,7 +7,8 @@ The hisibot system is based on IoT using :
 4. oled
 
 The output data from this system is in the form of blood pressure and heart rate. 
-The data will be stored in firebase and sent to the application.
+The data will be stored in firebase and sent to the application. 
+Demo video : https://youtu.be/gdZzVKAzPU4
 
 for reference : 
 1. http://kursuselektronikaku.blogspot.com/2016/11/mengakses-sensor-mpx5700dp-dan-water.html
